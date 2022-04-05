@@ -13,6 +13,7 @@ fn main() {
 }
 
 fn get_input(message: &str) -> String {
+
     let mut input = String::new();
 
     println!("{}", message);
